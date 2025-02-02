@@ -1,0 +1,12 @@
+streamlit
+speechrecognition
+gTTS
+tempfile
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+langchain-groq
+groq
+Pillow
+dotenv
